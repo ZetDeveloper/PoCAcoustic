@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "94762873590",
+    "project_id": "pocacoustic",
+    "storage_bucket": "pocacoustic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94762873590:android:26c24bcf28ab18a316b2d7",
+        "android_client_info": {
+          "package_name": "com.example.acousticpoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94762873590-204sil472aa494a94e1t1ehm75rqhocm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUlpG0UZmqHOrz5O6Rj555tr1pqNNnYUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94762873590-204sil472aa494a94e1t1ehm75rqhocm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
